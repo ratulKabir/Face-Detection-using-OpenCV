@@ -1,5 +1,6 @@
 # Face-Detection-using-OpenCV
 
 
-My result<br><br>
-<video controls src="dmeo.gif"/>
+My webcam results are below below.<br><br>
+<p align="center"> <img src="YOLO.gif"/> </p>
+<br>
