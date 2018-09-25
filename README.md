@@ -1,14 +1,13 @@
 # Face-Detection-using-OpenCV
 
-
-My webcam result is below.<br><br>
+<br><br>
 <p align="center"> <img src="demo.gif"/> </p>
 <br>
 
 ## Requirements
 
 Python3.6, opencv 3<br>
-Other Python like numpy, pillow are also needed.
+Other Python packages like numpy, pillow are also needed.
 
 
 ## References
